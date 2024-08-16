@@ -1,0 +1,13 @@
+.footer {
+    background-color: blue;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+    width: 100%;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+  }
+  
+ 
+  
